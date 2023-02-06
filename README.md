@@ -10,7 +10,7 @@ Each directory has a `base_codes` subdirectory with the base codes for the initi
 
 
 ### Classes/Topics
-1. [Descriptive Statistics](#)
+1. [Descriptive Statistics](./descriptive_statistics)
 
 
 ### Extras
