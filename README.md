@@ -11,6 +11,8 @@ Each directory has a `base_codes` subdirectory with the base codes for the initi
 
 ### Classes/Topics
 1. [Descriptive Statistics](./descriptive_statistics)
+2. [Data Distribution](./data_distribution)
+3. [Linear Regression](./linear_regression)
 
 
 ### Extras
